@@ -1,0 +1,60 @@
+.slider img{
+    height: 450px;
+    object-fit: cover;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+div{
+    font-family: 'Kanit', sans-serif;
+}
+
+h1{
+    font-family: 'Kanit', sans-serif;
+    color:black;
+ 
+}
+
+
+
+.bg{
+    background-color: #F1F0F0;
+}
+
+h4{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+    
+    text-align: center;
+    margin-top: 20px;
+}
+h6{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+}
+.h7{
+    font-family: 'Kanit', sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+
+
+}
+
+ 
+  
+
+h3 {
+    font-family: 'Kanit', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: black;
+  
+    margin-top: 20px;
+}

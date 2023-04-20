@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5c7efb8.css",
+    "main.js": "/static/js/main.0fcb66ca.js",
+    "static/media/Kanit-Light.ttf": "/static/media/Kanit-Light.7b6b95563f4c5697d973.ttf",
+    "index.html": "/index.html",
+    "main.a5c7efb8.css.map": "/static/css/main.a5c7efb8.css.map",
+    "main.0fcb66ca.js.map": "/static/js/main.0fcb66ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5c7efb8.css",
+    "static/js/main.0fcb66ca.js"
+  ]
+}
